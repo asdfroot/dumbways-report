@@ -11,7 +11,7 @@ Pada study case ini proses update dari branch **_development_** kemudian di upda
 
  >git push -u github development
 
-![gambar s2](assets/s2.PNG)
+![gambar s2](assets/s2.png)
 
 ## Update staging
 
@@ -27,7 +27,7 @@ Pada study case ini proses update dari branch **_development_** kemudian di upda
 
  >git push -u github stagging
 
-![gambar s3](assets/s3.PNG)
+![gambar s3](assets/s3.png)
 
 ## Update production
 
@@ -43,4 +43,4 @@ Pada study case ini proses update dari branch **_development_** kemudian di upda
 
  >git push -u github production
 
-![gambar s4](assets/s4.PNG)
+![gambar s4](assets/s4.png)
