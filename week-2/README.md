@@ -13,7 +13,7 @@
 - Dll
 
 # Penyelesaian
-- [bash script](bash-script.md)
+- [bash script](bash script.md)
 - [git versioning](git-versioning.md)
 - [ci cd](ci-cd.md)
 - [study case](study-case.md)
