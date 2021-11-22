@@ -8,25 +8,25 @@ cd (change directory) digunakan untuk berpindah dari satu direktori ke direktori
 
  >cd
 
-![gambar 1](assets/1.PNG)
+![gambar 1](assets/1.png)
 
 - Kembali ke satu level sebelumnya
 
  >cd ..
 
-![gambar 2](assets/2.PNG)
+![gambar 2](assets/2.png)
 
 - Kembali ke dua level sebelumnnya
 
  >cd ../..
 
-![gambar 3](assets/3.PNG)
+![gambar 3](assets/3.png)
 
 - Berpindah ke direktori sebelumnya
 
  >cd -
 
-![gambar 4](assets/4.PNG)
+![gambar 4](assets/4.png)
 
 ## ls
 Menampilkan isi direktori
@@ -35,20 +35,20 @@ Menampilkan isi direktori
 
  >ls -alht
 
-![gambar 5](assets/5.PNG)
+![gambar 5](assets/5.png)
 
 - Tampilkan hanya nama direktori/file
 
  >ls -l
 
-![gambar 6](assets/6.PNG)
+![gambar 6](assets/6.png)
 
 ## mkdir
 mkdir di gunakan untuk membuat folder atau direktori, berikut contoh penggunaan nya :
 
  >mkdir nama_folder
 
-![gambar 7](assets/7.PNG)
+![gambar 7](assets/7.png)
 
 ## mv
 mv berfungsi untuk memindahkan file atau folder dari satu lokasi ke lokasi yg lain, berikut cara  penggunaan nya :
@@ -57,7 +57,7 @@ mv berfungsi untuk memindahkan file atau folder dari satu lokasi ke lokasi yg la
 
 fungsi mv juga bisa untuk merename file atau folder jika folder tidak tersedia maka otomatis akan merename nama file atau folder tsb
 
-![gambar 8](assets/8.PNG)
+![gambar 8](assets/8.png)
 
 ## cat
 Gabungkan isi file dan tampilkan ke standar output, berikut cara penggunaan nya :
@@ -66,25 +66,25 @@ Gabungkan isi file dan tampilkan ke standar output, berikut cara penggunaan nya 
 
 >cat sengklek.txt teuing.txt
 
-![gambar 9](assets/9.PNG)
+![gambar 9](assets/9.png)
 
 - Menampilkan informasi yang ada pada cpuinfo
 
 >cat /proc/cpuinfo
 
-![gambar 10](assets/10.PNG)
+![gambar 10](assets/10.png)
 
 - Menampilkan isi dari "file1" dimulai dari baris pertama
 
 >cat file1
 
-![gambar 11](assets/11.PNG)
+![gambar 11](assets/11.png)
 
 - Menampilkan isi dari "file1" dengan menambahkan nomor urut perbaris
 
 >cat -n file1
 
-![gambar 12](assets/12.PNG)
+![gambar 12](assets/12.png)
 
 ## cp
 copy, Menyalin file. berikut cara penggunaan nya :
@@ -93,7 +93,7 @@ copy, Menyalin file. berikut cara penggunaan nya :
 
 >cp file1 file2
 
-![gambar 13](assets/13.PNG)
+![gambar 13](assets/13.png)
 
 ## cal
 Menampilkan Kalender
@@ -102,14 +102,14 @@ Menampilkan Kalender
 
 >cal 2003
 
-![gambar 14](assets/14.PNG)
+![gambar 14](assets/14.png)
 
 ## touch
 touch berfungsi untuk membuat file dan fungsi touch sangat membantu jika kita ingin membuat file tanpa GUI, berikut cara penggunaan nya :
 
  >touch nama_file
 
-![gambar 15](assets/15.PNG)
+![gambar 15](assets/15.png)
 
 ## rm
 fungsi rm bisa digunakan untuk menghapus file atau folder, berikut cara penggunaan nya :
@@ -120,7 +120,7 @@ jika folder ada isi nya atau tidak kosong maka kita dapat tambahkan opsi -R :
 
 - rm -R nama_folder
 
-![gambar 16](assets/16.PNG)
+![gambar 16](assets/16.png)
 
 ## find
 Find adalah utilitas baris perintah yang memungkinkan untuk mencari file dan direktori dalam hirarki direktori, berikut cara penggunaan nya :
@@ -129,13 +129,13 @@ Find adalah utilitas baris perintah yang memungkinkan untuk mencari file dan dir
 
 >find . -name "*.txt" -print | xargs sed -i 's/sakiem/maemunah/g'
 
-![gambar 17](assets/17.PNG)
+![gambar 17](assets/17.png)
 
 - Temukan file txt yang mengandung kata girl pada direktori /home/..
 
 >find /home/.. -iname "*klek*.mp3"
 
-![gambar 18](assets/18.PNG)
+![gambar 18](assets/18.png)
 
 ## grep
 grep berfungsi untuk untuk mencari string (teks) dalam file. misal kita ingin menampilkan baris dari file.txt yg berisikan kalimat "curut" :
@@ -144,7 +144,7 @@ grep berfungsi untuk untuk mencari string (teks) dalam file. misal kita ingin me
 
 >grep -r "curut" /home/brain/Music
 
-![gambar 19](assets/19.PNG)
+![gambar 19](assets/19.png)
 
 ## sudo
 Digunakan agar pengguna biasa dapat menjalakan perintah dengan security privilege milik pengguna lain (biasanya sebagai superuser/root).
@@ -153,20 +153,20 @@ Digunakan agar pengguna biasa dapat menjalakan perintah dengan security privileg
 
 >sudo su
 
-![gambar 20](assets/20.PNG)
+![gambar 20](assets/20.png)
 
 - Jalankan perintah terakhir sebagai root
 
 > sudo !!
 
-![gambar 21](assets/21.PNG)
+![gambar 21](assets/21.png)
 
 ## df
 Laporan penggunaan ruang harddisk.
 
 >df -h
 
-![gambar 22](assets/22.PNG)
+![gambar 22](assets/22.png)
 
 ## ping
 Memeriksa konektivitas jaringan dengan mengirimkan paket ICMP ke IP komputer tujuan.
@@ -175,7 +175,7 @@ Memeriksa konektivitas jaringan dengan mengirimkan paket ICMP ke IP komputer tuj
 
 >ping 180.131.144.144
 
-![gambar 23](assets/23.PNG)
+![gambar 23](assets/23.png)
 
 ## wget
 untuk mengunduh file dari web. Dengan Wget, Anda dapat mengunduh file menggunakan protokol HTTP, HTTPS, dan FTP. berikut cara penggunaan wget
@@ -186,7 +186,7 @@ untuk mengunduh file dari web. Dengan Wget, Anda dapat mengunduh file menggunaka
 opsi ini berguna untuk mengunduh file dalam ukuran besar dan kita tidak punya banyak waktu untuk menunggunya hingga selesai.
 Jadi tinggal saja semaleman, besok tinggal dipetikn :)
 
-![gambar 24](assets/24.PNG)
+![gambar 24](assets/24.png)
 
 ## kill
 fungsi kill digunakan untuk mematikan service atau program yang sedang berajalan, berikut cara penggunaan nya
@@ -199,7 +199,7 @@ $ top
 >Kemudian kill id proses tersebut
 $ kill 3111
 
-![gambar 25](assets/25.PNG)
+![gambar 25](assets/25.png)
 
 ## chmod
 Mengubah hak akses terhadap suatu file / direktori.
@@ -208,10 +208,10 @@ Mengubah hak akses terhadap suatu file / direktori.
 
 >chmod ugo+rwx directory1
 
-![gambar 26](assets/26.PNG)
+![gambar 26](assets/26.png)
 
 - Mengubah kepemilikan sebuah direktori dan semua file dan direktori di dalamnya
 
 >chown -R user1 directory1
 
-![gambar 27](assets/27.PNG)
+![gambar 27](assets/27.png)
