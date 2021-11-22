@@ -9,7 +9,7 @@ Perintah-perintah untuk git versioning :
 
  >git config --list
 
-![gambar g1](assets/g1.PNG)
+![gambar g1](assets/g1.png)
 
 ## Membuat SSH
 
@@ -19,7 +19,7 @@ Perintah-perintah untuk git versioning :
 
  >ssh -T git@github.com
 
-![gambar g2](assets/g2.PNG)
+![gambar g2](assets/g2.png)
 
 ## Repository Management
 
@@ -29,7 +29,7 @@ Perintah-perintah untuk git versioning :
 
  >git status
 
-![gambar g3](assets/g3.PNG)
+![gambar g3](assets/g3.png)
 
 ## Git Add & Commit
 
@@ -47,7 +47,7 @@ Perintah-perintah untuk git versioning :
 
    > git add .
 
-![gambar g4](assets/g4.PNG)
+![gambar g4](assets/g4.png)
 
 **Git Commit**
 
@@ -55,7 +55,7 @@ Perintah-perintah untuk git versioning :
 
  > git commit -m "pesan commit"
 
-![gambar g5](assets/g5.PNG)
+![gambar g5](assets/g5.png)
 
 ## Git Remote
 Pengembangan aplikasi, perlu adanya server untuk menyimpan semua perubahan agar semua orang dapat berkontribusi. beberapa layanan repository :
@@ -70,7 +70,7 @@ Pengembangan aplikasi, perlu adanya server untuk menyimpan semua perubahan agar 
 
 >git push -u origin main
 
-![gambar g6](assets/g6.PNG)
+![gambar g6](assets/g6.png)
 
 ## Git Branch
 git branch digunakan untuk membuat versi dari repository :
@@ -87,7 +87,7 @@ git branch digunakan untuk membuat versi dari repository :
 
 >git branch -a
 
-![gambar g7](assets/g7.PNG)
+![gambar g7](assets/g7.png)
 
 ## Git Checkout
 Git checkout digunakan untuk berpindah dari satu branch ke branch yang lain :
@@ -96,7 +96,7 @@ Git checkout digunakan untuk berpindah dari satu branch ke branch yang lain :
 
 >git checkout production
 
-![gambar g8](assets/g8.PNG)
+![gambar g8](assets/g8.png)
 
 ## Git Push
 Git push di gunakan untuk upload file dari file local ke database server github, berikut cara penggunaan nya :
@@ -104,11 +104,11 @@ Git push di gunakan untuk upload file dari file local ke database server github,
 
  >git push origin nama_branch
 
-![gambar g9](assets/g9.PNG)
+![gambar g9](assets/g9.png)
 
 ## Git Pull
 Git pull merupakan perintah untuk menyamakan perubahan yang terjadi pada server git, berikut cara penggunaan nya : :
 
 >git pull origin nama branch
 
-![gambar g10](assets/g10.PNG)
+![gambar g10](assets/g10.png)
