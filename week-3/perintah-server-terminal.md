@@ -2,11 +2,11 @@
 
 ## Texs Editor
 
-   Nano merupakan sebuah aplikasi editor berbasis teks untuk Unix dan sistem Unix-like. :
+Nano merupakan sebuah aplikasi editor berbasis teks untuk Unix dan sistem Unix-like. :
 
--   nano
+- nano
 
-    `nano nanotes.txt` membuka file nanotes.txt dengan teks editor nano
+ `nano nanotes.txt` membuka file nanotes.txt dengan teks editor nano
 
     ![gambar 1](assets/nanotxt.png)
 
