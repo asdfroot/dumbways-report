@@ -42,7 +42,7 @@
 
     Dapat menginstal WordPress dengan sekali klik, hanya perlu memberikan judul, nama pengguna, kata sandi untuk menginstalnya.
 
-    -   **And more**
+-   **And more**
 
     cms manajer mendukung untuk menginstal MongoDB dan Docker
 
