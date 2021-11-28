@@ -10,7 +10,7 @@
 
 ![gambar 1](assets/server.png)
 
--   Masukkan alamat IP, nama pengguna dan kata sandi /SSH key Anda. Klik Connect.
+-   Masukkan alamat IP, nama pengguna dan kata sandi /SSH key. Klik Connect.
 
 ![gambar 2](assets/ssh.png)
 
