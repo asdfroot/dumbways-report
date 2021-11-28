@@ -10,7 +10,7 @@
 
 ![gambar 1](assets/server.png)
 
--   Masukkan alamat IP Anda, nama pengguna dan kata sandi /SSH key Anda. Klik Connect.
+-   Masukkan alamat IP, nama pengguna dan kata sandi /SSH key Anda. Klik Connect.
 
 ![gambar 2](assets/ssh.png)
 
@@ -22,7 +22,7 @@
 
 ## Instalasi Aplikasi
 
-  Dengan CMS Manajer, Marketplace dapat menginstall apa yang anda butuhkan.
+  Dengan CMS Manajer, Marketplace dapat menginstall apa yang butuhkan.
 
 ![gambar 4](assets/instal.png)
 
@@ -62,7 +62,7 @@
 >
 > Masukkan judul situs, nama pengguna administrator, kata sandi, dan alamat email untuk konfirmasi penyiapan. Nama pengguna dan sandi administrator tidak sama dengan pengguna sistem aplikasi.
 >
-> klik Create App untuk mengirimkan formulir. Anda akan diperlihatkan beberapa detail tentang aplikasi.
+> klik Create App untuk mengirimkan formulir. akan diperlihatkan beberapa detail tentang aplikasi.
 
 ![gambar 6](assets/wp2.png)
 
@@ -78,7 +78,7 @@
 
 -   Langkah pertama : Daftar ke CloudFlare
 
-> Sebelum kita mulai, Anda harus mendaftar ke CloudFlare dan tambahkan domain pada dasbor.
+> Sebelum kita mulai, harus mendaftar ke CloudFlare dan tambahkan domain pada dasbor.
 
 -   Langkah kedua : Domain
 
