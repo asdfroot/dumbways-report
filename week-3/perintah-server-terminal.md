@@ -2,7 +2,7 @@
 
 ## Texs Editor
 
-Nano merupakan sebuah aplikasi editor berbasis teks untuk Unix dan sistem Unix-like. :
+  Nano merupakan sebuah aplikasi editor berbasis teks untuk Unix dan sistem Unix-like. :
 
 - nano
 
@@ -162,40 +162,40 @@ Nano merupakan sebuah aplikasi editor berbasis teks untuk Unix dan sistem Unix-l
 
 ## Network Firewall
 
-    Network Firewall digunakan untuk mengamankan sebuah serveer. tools yang digunakan :
+   Network Firewall digunakan untuk mengamankan sebuah serveer. tools yang digunakan :
 
-    `sudo ufw default deny incoming` memblokir semua ak
+   `sudo ufw default deny incoming` memblokir semua ak
 
-    ![gambar 24](assets/ufw-deny.png)
+   ![gambar 24](assets/ufw-deny.png)
 
-    `sudo ufw default allow outgoing` membuka semua akses yang keluar
+   `sudo ufw default allow outgoing` membuka semua akses yang keluar
 
-    ![gambar 25](assets/ufw-allow.png)
+   ![gambar 25](assets/ufw-allow.png)
 
-    `sudo ufw app list` menampilkan aplikasi yang didukung oleh ufw pada Server
+   `sudo ufw app list` menampilkan aplikasi yang didukung oleh ufw pada Server
 
-    ![gambar 26](assets/ufw-app-list.png)
+   ![gambar 26](assets/ufw-app-list.png)
 
-    `sudo ufw allow "Nginx full"` mengijinkan akses dari luar ke dalam untuk aplikasi nginx
+   `sudo ufw allow "Nginx full"` mengijinkan akses dari luar ke dalam untuk aplikasi nginx
 
-    ![gambar 27](assets/ufw-allow-full.png)
+   ![gambar 27](assets/ufw-allow-full.png)
 
-    `sudo ufw allow 22` membuka akses untuk port  22
+   `sudo ufw allow 22` membuka akses untuk port  22
 
-    ![gambar 28](assets/ufw-allow-22.png)
+   ![gambar 28](assets/ufw-allow-22.png)
 
-    `sudo ufw allow 22/tcp` membuka akses untuk port 22 dengan koneksi tcp
+   `sudo ufw allow 22/tcp` membuka akses untuk port 22 dengan koneksi tcp
 
-    ![gambar 29](assets/ufw-allow-tcp.png)
+   ![gambar 29](assets/ufw-allow-tcp.png)
 
-    `sudo ufw allow 22/udp` membuka akses untuk port 22 dengan koneksi udp
+   `sudo ufw allow 22/udp` membuka akses untuk port 22 dengan koneksi udp
 
-    ![gambar 30](assets/ufw-allow-udp.png)
+   ![gambar 30](assets/ufw-allow-udp.png)
 
-    `sudo ufw deny 80` memblokir semua akses ke port 80
+   `sudo ufw deny 80` memblokir semua akses ke port 80
 
-    ![gambar 31](assets/ufw-deny-80.png)
+   ![gambar 31](assets/ufw-deny-80.png)
 
-    `sudo ufw delete deny 80` menghapus konfigurasi, perintah harus sama dengan yang ingin dihapus
+   `sudo ufw delete deny 80` menghapus konfigurasi, perintah harus sama dengan yang ingin dihapus
 
-    ![gambar 32](assets/ufw-delete-deny.png)
+   ![gambar 32](assets/ufw-delete-deny.png)
