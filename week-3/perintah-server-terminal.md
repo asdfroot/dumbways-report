@@ -4,9 +4,9 @@
 
   Nano merupakan sebuah aplikasi editor berbasis teks untuk Unix dan sistem Unix-like. :
 
-- nano
+-   nano
 
- `nano nanotes.txt` membuka file nanotes.txt dengan teks editor nano
+    `nano nanotes.txt` membuka file nanotes.txt dengan teks editor nano
 
     ![gambar 1](assets/nanotxt.png)
 
@@ -164,7 +164,7 @@
 
    Network Firewall digunakan untuk mengamankan sebuah serveer. tools yang digunakan :
 
-   `sudo ufw default deny incoming` memblokir semua ak
+   `sudo ufw default deny incoming` memblokir semua akses yang masuk
 
    ![gambar 24](assets/ufw-deny.png)
 
