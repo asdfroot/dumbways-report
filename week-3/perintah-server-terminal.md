@@ -46,15 +46,15 @@
 
     `cat > file1.md` untuk membuat file baru dan memasukan teks
 
-    `cat file1 file2 > file3` untuk menggabungkan dua file dan menyimpannya pada file3
+    `cat file1.md file2.md > file3.md` untuk menggabungkan dua file dan menyimpannya pada file3.md
 
     ![gambar 4](assets/cat.png)
 
 -   sed
 
-    `sed -i 's/pada/di/g' file3`
+    `sed -i 's/dalam/jero/g' file3.md`
 
-    > keterangan : akan mengganti semua kata "pada" menjadi "di" pada file3
+    > keterangan : akan mengganti semua kata "dalam" menjadi "jero" pada file3.md
 
     ![gambar 5](assets/sed.png)
 
@@ -68,7 +68,7 @@
 
     ![gambar 7](assets/grep-c.png)
 
-    `grep isi *` akan mencari semua kata yang berisi kata "file"
+    `grep isi *` akan mencari semua kata yang berisi kata "isi"
 
     ![gambar 8](assets/grepisi.png)
 
@@ -88,11 +88,11 @@
 
     ![gambar 11](assets/echohello.png)
 
-    `echo "ini data di file3" >> file3` menambahkan **ini data di file3** pada fle3
+    `echo "ini data di file3" >> file3.md` menambahkan **ini data di file3** pada file3.md
 
     ![gambar 12](assets/echoisi.png)
 
-    `echo "isi file terganti semua" > file3` mengganti semua isi file3 menjadi **isi file terganti semua**
+    `echo "isi file terganti semua" > file3.md` mengganti semua isi file3 menjadi **isi file terganti semua**
 
     ![gambar 13](assets/echoganti.png)
 
