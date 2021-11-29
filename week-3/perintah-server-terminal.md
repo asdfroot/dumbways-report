@@ -10,7 +10,7 @@
 
     ![gambar 1](assets/nanotxt.png)
 
-    `nano /directory1/directory1/file.md` membuka file nanotes.txt yang lokasinya berada dalam folder
+    `nano /directory1/directory1/nanotes.txt` membuka file nanotes.txt yang lokasinya berada dalam folder
 
     ![gambar 2](assets/nano2.png)
 
