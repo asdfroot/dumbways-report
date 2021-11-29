@@ -84,7 +84,7 @@
 
 -   echo
 
-    `echo "Hello Google"` mencetak kata **hey kamu**
+    `echo "Hello Google"` mencetak kata **Hello Google**
 
     ![gambar 11](assets/echohello.png)
 
