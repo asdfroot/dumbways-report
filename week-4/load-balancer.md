@@ -28,7 +28,7 @@
 
     `npm i express` Menginstal express
 
-    ![gambar 3](assets/npm-express.png)
+    ![gambar 3](assets/npm-express-i.png)
 
     `sudo nano index.js` Membuat aplikasi dengan format js
 
