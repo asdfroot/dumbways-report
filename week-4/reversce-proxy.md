@@ -54,7 +54,7 @@
 
    ![gambar 12](assets/proxy-conf.png)
 
-   ![gambar 13](assets/nona-proxy.png)
+   ![gambar 13](assets/nona-proxy-conf.png)
 
    `sudo nano /etc/hosts`
 
