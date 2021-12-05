@@ -52,7 +52,7 @@
         console.log('Example app listening at http://localhost:${port}')
       })
 
-   ![gambar 8](assets/nanacode.png)    
+   ![gambar 8](assets/nanocode.png)    
 
    `CTRL+X` untuk keluar dan `y` untuk menyimpan dan yang terakhir tekan `Enter`
 
