@@ -80,7 +80,7 @@
                         root /home/asdf/load-balancer-nginx/;
                         location / {
                                 proxy_pass <http://backend>;
-      		              }
+      		           }
       	         }
           }
           events { }
