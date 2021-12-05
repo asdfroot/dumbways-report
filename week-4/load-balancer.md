@@ -91,7 +91,7 @@
 
     ![gambar 12](assets/reload.png)
 
-    Masukan `127.0.0.1` pada _url_ _**Web Browser**_ dan lakukan Reload Current Page atau `CTRL+R` pada _**Web Browser**_, maka secara bergantian menampilkan halaman dari 1212 dan 1313
+    Masukan `127.0.0.1` pada _url_ _**Web Browser**_ dan lakukan _Reload Current Page_ atau `CTRL+R` pada _**Web Browser**_, maka secara bergantian menampilkan halaman dari 1212 dan 1313
 
     ![gambar 13](assets/output1212.png)
 
