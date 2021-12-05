@@ -4,7 +4,7 @@
 
    Aplikasi yang dibuat oleh javascript (node.js) maka perlu instal node.js
 
-    `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.38.0/install.sh | bash`
+`curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.38.0/install.sh|bash`
 
     `nvm install 16.13.0`
 
@@ -23,8 +23,7 @@
     ![gambar 3](assets/ver.png)
 
 -   Membuat example app Node.js :
-
-    `mkdir myapp-nodejs` Membuat folder baru dengan nama myapp-nodejs
+`mkdir myapp-nodejs` Membuat folder baru dengan nama myapp-nodejs
 
     `cd myapp-nodejs` Pindah directory ke myapp-nodejs
 
