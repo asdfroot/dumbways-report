@@ -78,32 +78,32 @@
 
    `sudo mkdir go`
 
-   ![gambar 1](assets/cdgo.png)
+   ![gambar 18](assets/cdgo.png)
 
    `sudo nano /etc/nginx/nginx.conf`
 
-   ![gambar 2](assets/nanoconf.png)
+   ![gambar 19](assets/nanoconf.png)
 
    `cd go.reverse-proxy.conf`
 
    `sudo nano go.reverse-proxy.conf`
 
-   ![gambar 14](assets/cdgo.png)
+   ![gambar 20](assets/cdgo.png)
 
-   ![gambar 14](assets/nano-go.png)
+   ![gambar 21](assets/nano-go.png)
 
    `sudo nano /etc/hosts`
 
-   ![gambar 14](assets/edit-etc-host.png)
+   ![gambar 22](assets/edit-etc-host.png)
 
    `sudo nginx -t`
 
-   ![gambar 15](assets/tes.png)
+   ![gambar 23](assets/tes.png)
 
    `sudo systemctl reload nginx`
 
-   ![gambar 16](assets/reload.png)
+   ![gambar 24](assets/reload.png)
 
    Masukan `nodejs.syarif.xyz` pada _url_ _**Web Browser**_
 
-   ![gambar 17](assets/outgolang.png)
+   ![gambar 25](assets/outgolang.png)
