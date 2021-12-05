@@ -14,6 +14,8 @@
 
    ![gambar 2](assets/nanoconf.png)
 
+   ![gambar 2](assets/nginx-conf.png)
+
    `sudo nano js.reverse-proxy.conf`
 
    ![gambar 3](assets/nanojsreverce.png)
@@ -83,6 +85,8 @@
    `sudo nano /etc/nginx/nginx.conf`
 
    ![gambar 19](assets/nanoconf.png)
+
+   ![gambar 2](assets/nginx-conf.png
 
    `cd go.reverse-proxy.conf`
 
