@@ -71,17 +71,17 @@
     ![gambar 10](assets/bukaconfig.png)
 
          http {
-              upstream backend {
-                server 127.0.0.1:1212;
-                server 127.0.0.1:1313;
-      	      }
-              server {
-                listen 80;
-                root /home/asdf/load-balancer-nginx/;
-                location / {
-                  proxy_pass <http://backend>;
-      		    }
-      	    }
+                upstream backend {
+                        server 127.0.0.1:1212;
+                        server 127.0.0.1:1313;
+                }
+                server {
+                        listen 80;
+                        root /home/asdf/load-balancer-nginx/;
+                        location / {
+                          proxy_pass <http://backend>;
+      		              }
+      	         }
           }
           events { }
 
