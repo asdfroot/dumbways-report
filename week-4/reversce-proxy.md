@@ -18,7 +18,7 @@
 
    ![gambar 3](assets/nanojsreverce.png)
 
-   ![gambar 4](assets/nano-js-reverse-conf.png)
+   ![gambar 4](assets/nano-js-reverse-proxy-conf.png)
 
    `sudo nano /etc/hosts`
 
