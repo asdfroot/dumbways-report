@@ -110,7 +110,7 @@
 
    `python3 index.py` Menjalankan aplikasi
 
-   ![gambar 19](assets/manjalankan.png)
+   ![gambar 19](assets/menjalankan.png)
 
    Masukan `http://localhost:5000` pada _url_ _**Web Browser**_
 
