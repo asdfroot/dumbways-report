@@ -6,104 +6,104 @@
 
     `cd /etc/nginx`
 
-    `sudo mkdir js`
+   `sudo mkdir js`
 
-    ![gambar 1](assets/buatfolder.png)
+   ![gambar 1](assets/buatfolder.png)
 
-    `sudo nano /etc/nginx/nginx.conf`
+   `sudo nano /etc/nginx/nginx.conf`
 
-    ![gambar 2](assets/nanoconf.png)
+   ![gambar 2](assets/nanoconf.png)
 
-    `sudo nano js.reverse-proxy.conf`
+   `sudo nano js.reverse-proxy.conf`
 
-    ![gambar 3](assets/nanojsreverce.png)
+   ![gambar 3](assets/nanojsreverce.png)
 
-    ![gambar 4](assets/nano-js-reverse-conf.png)
+   ![gambar 4](assets/nano-js-reverse-conf.png)
 
-    `sudo nano /etc/hosts`
+   `sudo nano /etc/hosts`
 
-    ![gambar 5](assets/edit-etc-host.png)
+   ![gambar 5](assets/edit-etc-host.png)
 
-    `sudo nginx -t`
+   `sudo nginx -t`
 
-    ![gambar 6](assets/tes.png)
+   ![gambar 6](assets/tes.png)
 
-    `sudo systemctl reload nginx`
+   `sudo systemctl reload nginx`
 
-    ![gambar 7](assets/reload.png)
+   ![gambar 7](assets/reload.png)
 
-    Masukan `nodejs.syarif.xyz` pada _url_ _**Web Browser**_
+   Masukan `nodejs.syarif.xyz` pada _url_ _**Web Browser**_
 
-    ![gambar 8](assets/out.png)
+   ![gambar 8](assets/out.png)
 
 ## Reverse Proxy App Python
 
-    `cd /etc/nginx`
+   `cd /etc/nginx`
 
-    `sudo mkdir py`
+   `sudo mkdir py`
 
-    ![gambar 9](assets/mkdir.png)
+   ![gambar 9](assets/mkdir.png)
 
-    `sudo nano /etc/nginx/nginx.conf`
+   `sudo nano /etc/nginx/nginx.conf`
 
-    ![gambar 10](assets/nanoconf.png)
+   ![gambar 10](assets/nanoconf.png)
 
-    ![gambar 11](assets/nginx-conf.png)    
+   ![gambar 11](assets/nginx-conf.png)    
 
-    `sudo nano py.reverse-proxy.conf`
+   `sudo nano py.reverse-proxy.conf`
 
-    ![gambar 12](assets/proxy-conf.png)
+   ![gambar 12](assets/proxy-conf.png)
 
-    ![gambar 13](assets/nona-proxy.png)
+   ![gambar 13](assets/nona-proxy.png)
 
-    `sudo nano /etc/hosts`
+   `sudo nano /etc/hosts`
 
-    ![gambar 14](assets/edit-etc-host.png)
+   ![gambar 14](assets/edit-etc-host.png)
 
-    `sudo nginx -t`
+   `sudo nginx -t`
 
-    ![gambar 15](assets/tes.png)
+   ![gambar 15](assets/tes.png)
 
-    `sudo systemctl reload nginx`
+   `sudo systemctl reload nginx`
 
-    ![gambar 16](assets/reload.png)
+   ![gambar 16](assets/reload.png)
 
-    Masukan `python.syarif.xyz` pada _url_ _**Web Browser**_
+   Masukan `python.syarif.xyz` pada _url_ _**Web Browser**_
 
-    ![gambar 17](assets/output.png)
+   ![gambar 17](assets/output.png)
 
 ## Reverse Proxy App Golang
 
-    `cd /etc/nginx`
+   `cd /etc/nginx`
 
-    `sudo mkdir go`
+   `sudo mkdir go`
 
-    ![gambar 1](assets/cdgo.png)
+   ![gambar 1](assets/cdgo.png)
 
-    `sudo nano /etc/nginx/nginx.conf`
+   `sudo nano /etc/nginx/nginx.conf`
 
-    ![gambar 2](assets/nanoconf.png)
+   ![gambar 2](assets/nanoconf.png)
 
-    `cd go.reverse-proxy.conf`
+   `cd go.reverse-proxy.conf`
 
-    `sudo nano go.reverse-proxy.conf`
+   `sudo nano go.reverse-proxy.conf`
 
-    ![gambar 14](assets/cdgo.png)
+   ![gambar 14](assets/cdgo.png)
 
-    ![gambar 14](assets/nano-go.png)
+   ![gambar 14](assets/nano-go.png)
 
-    `sudo nano /etc/hosts`
+   `sudo nano /etc/hosts`
 
-    ![gambar 14](assets/edit-etc-host.png)
+   ![gambar 14](assets/edit-etc-host.png)
 
-    `sudo nginx -t`
+   `sudo nginx -t`
 
-    ![gambar 15](assets/tes.png)
+   ![gambar 15](assets/tes.png)
 
-    `sudo systemctl reload nginx`
+   `sudo systemctl reload nginx`
 
-    ![gambar 16](assets/reload.png)
+   ![gambar 16](assets/reload.png)
 
-    Masukan `nodejs.syarif.xyz` pada _url_ _**Web Browser**_
+   Masukan `nodejs.syarif.xyz` pada _url_ _**Web Browser**_
 
-    ![gambar 17](assets/outgolang.png)
+   ![gambar 17](assets/outgolang.png)
