@@ -86,7 +86,7 @@
 
    ![gambar 19](assets/nanoconf.png)
 
-   ![gambar 2](assets/nginx-conf.png
+   ![gambar 27](assets/nginx-conf.png
 
    `cd go.reverse-proxy.conf`
 
