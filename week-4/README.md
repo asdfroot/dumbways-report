@@ -1,4 +1,4 @@
-# Week 3
+# Week 4
 - Buat dokumentasi pembuatan aplikasi nodejs, pythondan golang.
 
 - Buat dokumentasi monitoring dengan case ketika aplikasi kita mati  seperti apa memonitoringnya dan ketika aplikasi kita hidup seperti apa memonitoringnya.
@@ -13,7 +13,14 @@ Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
 - OS            : Linux Mint
 - Web Server    : Nginx
 - Engine        : Nodejs, Python dan Golang
+- Tools         : pm2
 
 # Penyelesaian
 
-- [load balancer](load-balancer.md)
+- [Pembuatan Aplikasi](load-balancer.md)
+
+- [Monitoring Aplikasi](Monitoring.md)
+
+- [Reverse Proxy](reverce-proxy.md)
+
+- [Load Balancer](load-balancer.md)
