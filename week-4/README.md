@@ -17,7 +17,7 @@ Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
 
 # Penyelesaian
 
-- [Pembuatan Aplikasi](load-balancer.md)
+- [Pembuatan Aplikasi](pembuatan-aplikasi-nodejs-python-dan-golang.md)
 
 - [Monitoring Aplikasi](Monitoring.md)
 
