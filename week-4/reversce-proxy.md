@@ -4,7 +4,7 @@
 
 ## Reverse Proxy App node.js
 
-    `cd /etc/nginx`
+   `cd /etc/nginx`
 
    `sudo mkdir js`
 
