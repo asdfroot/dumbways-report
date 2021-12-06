@@ -19,7 +19,7 @@ Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
 
 - [Pembuatan Aplikasi](pembuatan-aplikasi-nodejs-python-dan-golang.md)
 
-- [Monitoring Aplikasi](Monitoring.md)
+- [Monitoring Aplikasi](monitoring.md)
 
 - [Reverse Proxy](reverce-proxy.md)
 
