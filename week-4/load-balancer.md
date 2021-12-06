@@ -18,7 +18,7 @@
 
     `mkdir load-balancer-nginx` Membuat folder
 
-    ![gambar 1](assets/mkdir.png)
+    ![gambar 1](assets/mkdirload.png)
 
     `cd load-balancer-nginx` Pindah directory yang telah dibuat
 
