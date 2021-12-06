@@ -124,7 +124,7 @@
 
    ![gambar 21](assets/down.png)
 
-   `sudo tar -C /usr/local -xzf go1.17.3.linux-amd64.tar.gz` Upgrade sistem
+   `sudo tar -C /usr/local -xzf go1.17.3.linux-amd64.tar.gz` Extract file
 
    ![gambar 22](assets/extra.png)
 
