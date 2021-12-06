@@ -179,4 +179,4 @@
 
    Masukan `http://localhost:2000` pada _url_ _**Web Browser**_
 
-   ![gambar 29](assets/out.png)
+   ![gambar 29](assets/outqq.png)
