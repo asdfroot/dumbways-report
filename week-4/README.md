@@ -21,6 +21,6 @@ Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
 
 - [Monitoring Aplikasi](monitoring.md)
 
-- [Reverse Proxy](reverce-proxy.md)
+- [Reverse Proxy](reversce-proxy.md)
 
 - [Load Balancer](load-balancer.md)
